@@ -1,0 +1,4 @@
+current_tier_name > tier2_mobile_topology7
+tier0_mobile_topology7 >> 172.31.7.187
+tier1_mobile_topology7 >> 172.31.5.86
+tier2_mobile_topology7 >> 172.31.13.41

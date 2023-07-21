@@ -1,0 +1,8 @@
+number_of_tiers > 4
+type_of_tiers > a1.medium ^ m4.large ^ g4dn.xlarge ^ g5.xlarge
+count_of_tiers > 1 ^ 1 ^ 1 ^ 1
+source_tier_name > tier0_mobile_topology7
+destination_tier_name > tier0_mobile_topology7
+bw_between_tiers > 10 ^ 400
+latency_between_tiers > 20 ^ 40
+
